@@ -6,11 +6,12 @@
     "corepack": "^0.31.0",
     "cors": "^2.8.5",
     "express": "^4.21.2",
+    "mongodb": "^6.14.2",
     "npm": "^10.9.2"
   },
   "script": {
-"start": "nodemon server.js"
-},
+    "start": "nodemon server.js"
+  },
   "author": "Tran Hau",
   "license": "ISC",
   "description": "",
